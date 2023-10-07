@@ -1,12 +1,5 @@
-// import "./App.css";
-//
-// function App() {}
-//
-// export default App;
-
 import { useEffect, useState } from "react";
 import TodoItem from "./TodoItem";
-// import AddTodoForm from "./AddTodoForm";
 import AddTodoForm from "./AddTodoForm";
 import EditForm from "./EditForm";
 import "./style.css";
