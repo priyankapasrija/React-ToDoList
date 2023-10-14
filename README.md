@@ -7,7 +7,6 @@ This to-do list app is designed to simplify task management. It allows you to ad
 
 **Features**
 
-
 *Add Tasks: Easily add new tasks to your to-do list.
 *Edit Tasks: Update task descriptions as needed.
 *Delete Tasks: Remove tasks when they're no longer needed.
