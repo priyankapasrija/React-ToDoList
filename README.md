@@ -7,14 +7,14 @@ This to-do list app is designed to simplify task management. It allows you to ad
 
 **Features**
 
-*Add Tasks: Easily add new tasks to your to-do list.
-*Edit Tasks: Update task descriptions as needed.
-*Delete Tasks: Remove tasks when they're no longer needed.
-*Local Storage: Your to-do list is saved in local storage, so your tasks are retained between sessions.
+Add Tasks: Easily add new tasks to your to-do list.<br>
+Edit Tasks: Update task descriptions as needed.<br>
+Delete Tasks: Remove tasks when they're no longer needed.<br>
+Local Storage: Your to-do list is saved in local storage, so your tasks are retained between sessions.
 
 **How It Works**
-To add a new task, simply enter a description in the input field and press "Add Task."
-You can edit a task by clicking the "Edit" button or delete it by clicking the "Delete" button.
+To add a new task, simply enter a description in the input field and press "Add Task."<br>
+You can edit a task by clicking the "Edit" button or delete it by clicking the "Delete" button.<br>
 Your to-do list is automatically saved to local storage, so your tasks will persist even if you close and reopen the app.
 
 If you are looking for the latest deployed version of the project, you can find here: https://pp-todolistreact.netlify.app/
