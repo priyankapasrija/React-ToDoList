@@ -1,10 +1,13 @@
-#To-Do List App with React and Local Storage
+# To-Do List App with React and Local Storage
 Manage your tasks with ease using this to-do list application built with React and powered by local storage for data persistence.
 
-**Project Description**
+**Project Description**  
+
 This to-do list app is designed to simplify task management. It allows you to add, edit, and delete them while ensuring your to-do list is automatically saved to local storage for continued access even after closing your browser.
 
 **Features**
+
+
 *Add Tasks: Easily add new tasks to your to-do list.
 *Edit Tasks: Update task descriptions as needed.
 *Delete Tasks: Remove tasks when they're no longer needed.
@@ -13,7 +16,6 @@ This to-do list app is designed to simplify task management. It allows you to ad
 **How It Works**
 To add a new task, simply enter a description in the input field and press "Add Task."
 You can edit a task by clicking the "Edit" button or delete it by clicking the "Delete" button.
-
 Your to-do list is automatically saved to local storage, so your tasks will persist even if you close and reopen the app.
 
 If you are looking for the latest deployed version of the project, you can find here: https://pp-todolistreact.netlify.app/
